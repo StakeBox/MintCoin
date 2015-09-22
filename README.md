@@ -1,1 +1,1 @@
-MintCoin v1.10.0.0
+MintCoin v2.0.0.1
